@@ -1,4 +1,4 @@
-# 🧠 Finance_Brain — Quantitative Finance & Research Knowledge Base
+# Finance_Brain — Quantitative Finance & Research Knowledge Base
 
 **Finance_Brain** คือระบบคลังความรู้และผู้ช่วยวิจัยด้านการเงินการลงทุนส่วนบุคคลที่ผสานการทำงานระหว่าง **Obsidian** (สำหรับจัดเก็บและเชื่อมโยงองค์ความรู้) และ **AI Agent (`agy` CLI ขับเคลื่อนด้วย Gemini Pro)** เพื่อให้ AI รับหน้าที่อ่านเปเปอร์งานวิจัย สกัดสูตรสมการ เขียนสคริปต์ดึงงบการเงิน และสร้าง Dashboard เชิงปริมาณโดยอัตโนมัติ
 
